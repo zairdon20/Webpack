@@ -1,12 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Webpack Templte
+# To-Do-List App
 
-Additional description about the project and its features.
+This is my to-do list website built with html, css and JavaScript. In this project I used Webpack to bundle JavaScript and ES6 modules to write modular JavaScript. 
 
 ## Getting Started
 
-after cloneing
+**Setup**
+
+git clone https://github.com/zairdon20/Webpack.git
 
 ```
 npm install
@@ -15,10 +17,9 @@ npm start
 
 ## Authors
 
-👤 **Author1**
+👤 **Author**
 
-- GitHub: [@ahmedta](https://github.com/ahmedta)
-- Twitter: [@\_ahmedta](https://twitter.com/_ahmedta)
+- GitHub: [@zairdon20](https://github.com/zairdon20)
 
 ## 🤝 Contributing
 
